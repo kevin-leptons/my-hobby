@@ -1,0 +1,27 @@
+{
+  "name": "kevin-introduce-my-hobby",
+  "version": "0.1.0",
+  "main": [
+    "js/reveal.js",
+    "css/reveal.css",
+    "css/main.css"
+  ],
+  "license": "MIT",
+  "description": "introduce my hobby",
+  "authors": [
+    "kevin leptons <kevin.leptons@gmail.com>"
+  ],
+  "dependencies": {
+    "headjs": "~1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kevin-leptons/introduce-my-hobby.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ]
+}
