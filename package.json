@@ -1,7 +1,7 @@
 {
-  "name": "kevin-introduce-my-hobby",
+  "name": "kevin-my-hobby",
   "version": "0.1.0",
-  "description": "introduce about my hobby",
+  "description": "my hobby - listening music",
   "scripts": {
     "test": "grunt test",
     "start": "grunt serve"
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kevin-leptons/introduce-my-hobby.git"
+    "url": "git://github.com/kevin-leptons/my-hobby.git"
   },
   "engines": {
     "node": ">=4.0.0"

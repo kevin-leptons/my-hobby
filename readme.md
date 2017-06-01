@@ -1,27 +1,31 @@
-# Introduce about my hobby - Listening music
+# MY HOBBY - LISTENING MUSIC
 
-I am Kevin, there are slides use to introduce about my hobby, that's
-listening music
+Kevin's hobby on web platform presentation.
 
-# Installation
+# USAGE
+
+Checkout live presentation at
+[https://kevin-leptons.github.io/my-hobby](https://kevin-leptons.github.io/my-hobby)
+
+# INSTALLATION
 
 ```bash
-# Ensure that you installed git, nodejs and bower
+# tools
+apt-get install git nodejs
 
-# Clone project into local machine
-git clone https://github.com/kevin-leptons/introduce-my-hobby.git
-cd introduce-my-hobby
+# source code
+git clone https://github.com/kevin-leptons/my-hobby.git
+cd my-hobby
 
-# Install dependency packages
+# dependency packages
 npm install
 
-# Start presentation
+# start presentation
 # It will open slides on default browser on
 # http://localhost:8000
 npm start
 ```
 
-# Other links
+# REFERENCES
 
-You can see live instance
-[here](https://kevin-leptons.github.io/introduce-my-hobby)
+- [reveal.js - The HTML Presentation Framework](https://github.com/hakimel/reveal.js/)
